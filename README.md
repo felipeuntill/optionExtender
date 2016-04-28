@@ -6,6 +6,13 @@
   [![NPM Downloads][downloads-image]][downloads-url]
   [![Linux Build][travis-image]][travis-url]
 
+## Installation
+
+```bash
+$ npm install optionextender
+```
+
+## Quick Start
 
 ```js
 var optionExtender = require('optionextender')
@@ -20,25 +27,6 @@ var replace = {
 console.log(optionExtender(previsouly, replace));
 ```
 
-## Installation
-
-```bash
-$ npm install optionextender
-```
-
-## Features
-
-  * Properties substitution
-
-
-## Quick Start
-
-  Just do:
-
-```bash
-$ npm install optionextender
-```
-
 ## Tests
 
   To run the test suite, first install the dependencies, then run `npm test`:
@@ -47,6 +35,10 @@ $ npm install optionextender
 $ npm install
 $ npm test
 ```
+
+## Features
+
+  * Properties substitution
 
 ## People
 
@@ -61,4 +53,4 @@ The author of optionextender is [Felipe Assunção](https://github.com/felipeunt
 [downloads-image]: https://img.shields.io/npm/dm/optionextender.svg
 [downloads-url]: https://npmjs.org/package/optionextender
 [travis-image]: https://img.shields.io/travis/optionextender/optionextender/master.svg?
-[travis-url]: https://travis-ci.org/felipeuntill/optionextender
+[travis-url]: https://travis-ci.org/felipeuntill/optionExtender
