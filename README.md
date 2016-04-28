@@ -54,7 +54,7 @@ The author of optionextender is [Felipe Assunção](https://github.com/felipeunt
 
 ## License
 
-  [MIT](LICENSE)
+  [GNU GENERAL PUBLIC LICENSE](LICENSE)
 
 [npm-image]: https://img.shields.io/npm/v/optionextender.svg
 [npm-url]: https://npmjs.org/package/optionextender
