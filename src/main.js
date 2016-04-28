@@ -9,10 +9,3 @@ var extended = {
 };
 
 console.log(optionExtender(config, extended));
-console.log("********************")
-
-var extended = {  
-    name : 1
-};
-
-console.log(optionExtender(config, extended));

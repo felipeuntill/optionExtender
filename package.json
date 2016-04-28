@@ -1,27 +1,30 @@
 {
-  "name": "optionextender",
-  "version": "0.0.1",
+  "name": "option-extender",
+  "version": "1.0.0",
   "description": "The best way to extender your properties",
-  "main": "src/main.js",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/main.js"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/felipeuntill/option-extender.git"
   },
   "keywords": [
+    "options",
     "properties",
-    "nodejs",
-    "extender"
+    "extender",
+    "option-extender"
   ],
-  "author": "hi@renanmuniz.com",
+  "author": "https://github.com/felipeuntill",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/felipeuntill/option-extender/issues"
   },
-  "homepage": "https://github.com/felipeuntill/option-extender/#readme",
-  "dependencies": {
-  }
+  "homepage": "https://github.com/felipeuntill/option-extender#readme"
 }
