@@ -52,5 +52,5 @@ The author of optionextender is [Felipe Assunção](https://github.com/felipeunt
 [npm-url]: https://npmjs.org/package/optionextender
 [downloads-image]: https://img.shields.io/npm/dm/optionextender.svg
 [downloads-url]: https://npmjs.org/package/optionextender
-[travis-image]: https://img.shields.io/travis/optionextender/optionExtender/master.svg?
+[travis-image]: https://travis-ci.org/felipeuntill/optionExtender.svg
 [travis-url]: https://travis-ci.org/felipeuntill/optionExtender
