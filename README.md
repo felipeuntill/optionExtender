@@ -1,2 +1,2 @@
-# Extender
-Just an copy of jQuery.Extend  for your project
+# OptionExtender
+Just a tiny library to replace properties
