@@ -1,8 +1,12 @@
 {
   "name": "optionextender",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "The best way to extender your properties",
-  "main": "index.js",
+  "main": "src",
+  "_id": "optionextender@1.0.2",
+  "_requiredBy": [
+    "/"
+  ],
   "dependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.4.5"
