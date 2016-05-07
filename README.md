@@ -21,10 +21,11 @@ var previsouly = {
     name : 'previously name'  
 };
 var replace = {  
-    name : 'replace name' 
+    name : 'replaced name' 
 };
 
 console.log(optionExtender(previsouly, replace));
+// { name : 'replaced name'}
 ```
 
 ## Tests
