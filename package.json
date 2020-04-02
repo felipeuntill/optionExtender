@@ -9,7 +9,7 @@
   ],
   "dependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.0.0"
+    "mocha": "^6.0.0"
   },
   "devDependencies": {},
   "scripts": {
